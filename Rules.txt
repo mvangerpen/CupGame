@@ -1,0 +1,8 @@
+Cups is a game of chance. The goal is simple:
+
+Find the stone. There is only one.
+
+How to play:
+	1) Choose the number of cups to put on the table. More cups = higher wins!
+	2) Choose how much you want to bet.
+	3) Choose a cup!
